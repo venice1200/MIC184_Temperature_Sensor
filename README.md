@@ -88,3 +88,10 @@ Availabel MIC184_OS_Fault_queues are:
  - MIC184_FAULTS_2
  - MIC184_FAULTS_4
  - MIC184_FAULTS_6
+ 
+## void setZONE(MIC184_zone zone)
+
+Set the active Temperature Zone.
+Available MIC184_ZONE's are:
+ - MC184_ZONE_INTERNAL (default)
+ - MIC184_ZONE_REMOTE
