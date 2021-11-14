@@ -9,7 +9,7 @@ Please see examples for further usage of it.
 
 (C) 2021 venice
 
-This library is open source and released under *[MIT license](LICENSE.txt)*. Please see this file for further information.
+This library is open source and released under *[MIT license](LICENSE)*. Please see this file for further information.
 
 # MIC184
 
