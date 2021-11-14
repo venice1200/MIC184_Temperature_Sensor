@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map for LM75
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MIC184	KEYWORD1
+MIC184_OS_opmode	KEYWORD1
+MIC184_OS_Fault_queue	KEYWORD1
+MIC184_TOSPolarity KEYWORD1
+MIC184_opmode KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setAddress	KEYWORD2
+getTemp	KEYWORD2
+CtoF	KEYWORD2
+getTOS	KEYWORD2
+setTOS	KEYWORD2
+getHyst	KEYWORD2
+setHyst	KEYWORD2
+setOSFaultQueue	KEYWORD2
+setMode	KEYWORD2
+setOSMode	KEYWORD2
+setTOSPolarity	KEYWORD2
+setZONE	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MIC184_OS_COMPARATOR	LITERAL1
+MIC184_OS_INTERRUPT	LITERAL1
+MIC184_FAULTS_1	LITERAL1
+MIC184_FAULTS_2	LITERAL1
+MIC184_FAULTS_4	LITERAL1
+MIC184_FAULTS_6	LITERAL1
+MIC184_OSPOL_LOW	LITERAL1
+MIC184_OSPOL_HIGH	LITERAL1
+MIC184_MODE_NORMAL	LITERAL1
+MIC184_MODE_SHUTDOWN	LITERAL1
+MIC184_ZONE_INTERNAL	LITERAL1
+MIC184_ZONE_REMOTE	LITERAL1
+MIC184_IM_Clear	LITERAL1
+MIC184_IM_Set	LITERAL1
